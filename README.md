@@ -18,7 +18,7 @@
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgasaabyy&layout=compact&langs_count=7&theme=dark"
+    src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=donut)](https://github.com/pgasaabyy/github-readme-stats)"
     alt="Linguagens mais usadas"
   />
 </div>
