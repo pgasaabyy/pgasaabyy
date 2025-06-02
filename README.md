@@ -7,19 +7,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sabrina-lopes-silva/" target="_blank">
+  <a href="https://www.linkedin.com/in/sabrina-lopes-silva/" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo" />
   </a>
-  <a href="https://discordapp.com/users/588916905486843905" target="_blank">
+  <a href="https://discordapp.com/users/588916905486843905" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="30" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/is_saaby/" target="_blank">
+  <a href="https://www.instagram.com/is_saaby/" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://img.shields.io/badge/Email-lslva.sabrina@gmail.com-red" target="_blank">
+  <a href="https://img.shields.io/badge/Email-lslva.sabrina@gmail.com-red" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://wa.me/5511910846864" target="_blank">
+  <a href="https://wa.me/5511910846864" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="80" height="30" alt="whatsapp logo"  />
   </a>
 </div>
