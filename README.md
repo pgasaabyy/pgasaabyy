@@ -1,20 +1,14 @@
-<br clear="both">
 
 <h6 align="center">──────────────⊹⊱✫⊰⊹──────────────</h6>
 
 ###
-
-<br clear="both">
-
 <h3 align="center">Hello! Eu me chamo Sabrina e seja bem Vindo(a) ao meu repositório!</h3>
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sabrina-lopes-silva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo" />
   </a>
   <a href="https://discordapp.com/users/588916905486843905" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="30" alt="discord logo"  />
@@ -32,19 +26,16 @@
 
 ###
 
-<br clear="both">
 
 <h6 align="center">──────────────⊹⊱✫⊰⊹──────────────</h6>
 
 ###
 
-<br clear="both">
 
 <h3 align="center">CONHECIMENTOS</h3>
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
@@ -66,7 +57,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pgasaabyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=omni&hide_border=true&custom_title=Linguagens%20Favoritas%20%F0%9F%8D%92" height="150" alt="languages graph"  />
@@ -74,20 +64,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<h6 align="center">──────────────⊹⊱✫⊰⊹──────────────</h6>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pgasaabyy/pgasaabyy/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <h6 align="center">──────────────⊹⊱✫⊰⊹──────────────</h6>
 
