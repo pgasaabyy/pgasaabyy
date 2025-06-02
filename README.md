@@ -1,6 +1,6 @@
 ## Olá, meu nome é Sabrina!
 
-### ⚙️ GitHub Analytics
+### 💻 Estudante de Dev pelo SENAI
 
 <table>
   <tr>
