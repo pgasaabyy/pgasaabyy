@@ -2,13 +2,7 @@
 
 <h3 align="center">──────────────⊹⊱✫⊰⊹──────────────</h3>
 
-###
-
-<br clear="both">
-
 <h3 align="center">Hello! Eu me chamo Sabrina e seja bem Vindo(a) ao meu repositório!</h3>
-
-###
 
 <br clear="both">
 
