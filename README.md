@@ -1,57 +1,57 @@
-## Olá, meu nome é Sabrina!
-
-### 💻 Estudante de Dev pelo SENAI
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=pgasaabyy&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgasaabyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Langs"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pgasaabyy&theme=dark&hide_border=false"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 GitHub Profile Trophy
+<h1 align="center">Olá, eu sou a Sabrina! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=pgasaabyy&column=8&theme=darkhub&no-frame=true&no-bg=true"
-      alt="GitHub Trophies"
-    />
-  </a>
+  💻 Estudante de Desenvolvimento de Sistemas pelo <b>SENAI</b><br/>
+  🚀 Em busca de crescimento na área de tecnologia<br/>
+  🌱 Aprendendo HTML, CSS, JavaScript e mais!
 </p>
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <h3><b>📍 Contador de Visitantes</b></h3>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=pgasaabyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgasaabyy&layout=compact&langs_count=7&theme=dark"
+    alt="Linguagens mais usadas"
+  />
 </div>
+
+---
+
+### 🔥 Contribuições em destaque
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pgasaabyy&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+  />
+</div>
+
+---
+
+### 🏆 Troféus do GitHub
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=pgasaabyy&theme=darkhub&no-frame=true&no-bg=true&column=7"
+    alt="Troféus GitHub"
+  />
+</p>
+
+---
+
+### 👀 Contador de Visitantes
 
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/pgasaabyy/count.svg"
-    alt="Número de visitantes no perfil"
+    alt="Contador de visitantes"
   />
 </p>
