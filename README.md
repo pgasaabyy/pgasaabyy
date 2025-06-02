@@ -1,9 +1,8 @@
-<h1 align="center">Olá, eu sou a Sabrina! 👋</h1>
+<h1 align="center" style="color:#700000">Olá, eu sou a Sabrina! 👋</h1>
 
-<p align="center">
+<p align="center" style="color:#700000">
   💻 Estudante de Desenvolvimento de Sistemas pelo <b>SENAI</b><br/>
-  🚀 Em busca de crescimento na área de tecnologia<br/>
-  🌱 Aprendendo HTML, CSS, JavaScript e mais!
+  Em busca de crescimento na área de tecnologia<br/>
 </p>
 
 ---
@@ -18,7 +17,7 @@
   />
   <img
     height="180em"
-    src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=donut)](https://github.com/pgasaabyy/github-readme-stats)"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgasaabyy&layout=compact&langs_count=7&theme=dark"
     alt="Linguagens mais usadas"
   />
 </div>
