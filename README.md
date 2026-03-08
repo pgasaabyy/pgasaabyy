@@ -61,8 +61,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pgasaabyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=omni&hide_border=true&custom_title=Linguagens%20Favoritas%20%F0%9F%8D%92" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=pgasaabyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=omni&locale=en&hide_border=true" height="150" alt="stats graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=pgasaabyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=omni&locale=en&hide_border=true" height="150" alt="stats graph"  /></div>
 
 ###
 
