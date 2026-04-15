@@ -1,6 +1,6 @@
 <h6 align="center">──────────────⊹⊱✫⊰⊹──────────────</h6>
 
-<h3 align="center">Hello! Eu me chamo Sabrina e seja bem Vindo(a) ao meu perfil!</h3>
+<h3 align="center">Hello! Eu me chamo Sabrina e seja bem vindo(a) ao meu perfil!</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sabrina-lopes-silva/" style="text-decoration: none;">
