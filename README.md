@@ -3,19 +3,19 @@
 <h3 align="center">Hello! Eu me chamo Sabrina e seja bem vindo(a) ao meu perfil!</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sabrina-lopes-silva/" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/sabrina-lopes-silva/" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/588916905486843905" style="text-decoration: none">
+  <a href="https://discordapp.com/users/588916905486843905" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/is_saaby/" style="text-decoration: none">
+  <a href="https://www.instagram.com/is_saaby/" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:lslva.sabrina@gmail.com" style="text-decoration: none">
+  <a href="mailto:lslva.sabrina@gmail.com" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
