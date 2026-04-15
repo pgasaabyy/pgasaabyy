@@ -3,20 +3,20 @@
 <h3 align="center">Hello! Eu me chamo Sabrina e seja bem Vindo(a) ao meu perfil!</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sabrina-lopes-silva/" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/sabrina-lopes-silva/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="25" />
   </a>
-  <a href="https://discordapp.com/users/588916905486843905" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" alt="discord" />
+  <a href="https://discordapp.com/users/588916905486843905">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="25" />
   </a>
-  <a href="https://www.instagram.com/is_saaby/" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" alt="instagram" />
+  <a href="https://www.instagram.com/is_saaby/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="25" />
   </a>
-  <a href="mailto:lslva.sabrina@gmail.com" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" alt="email" />
+  <a href="mailto:lslva.sabrina@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="25" />
   </a>
-  <a href="https://wa.me/5511910846864" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" alt="whatsapp" />
+  <a href="https://wa.me/5511910846864">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="25" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pgasaabyy&layout=compact&langs_count=12&theme=omni&hide_border=true&custom_title=Linguagens%20Favoritas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pgasaabyy&layout=compact&langs_count=12&theme=omni&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=pgasaabyy&show_icons=true&theme=omni&hide_border=true" height="150" />
 </div>
 
