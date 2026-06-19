@@ -1,54 +1,59 @@
-<h6 align="center">──────────────⊹⊱✫⊰⊹──────────────</h6>
-
-<h3 align="center">Hello! Eu me chamo Sabrina e seja bem vindo(a) ao meu perfil!</h3>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/sabrina-lopes-silva/" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/588916905486843905" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/is_saaby/" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:lslva.sabrina@gmail.com" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+
+──────────────⊹⊱✫⊰⊹──────────────
+
+<img src="LOGO_SABRINA_DEVELOPER.png" alt="Sabrina Developer" width="420"/>
+
+──────────────⊹⊱✫⊰⊹──────────────
+
+### Desenvolvedora Full-Stack · Python & Django
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-lopes-silva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lslva.sabrina@gmail.com)
+
+──────────────⊹⊱✫⊰⊹──────────────
+
 </div>
 
-<h6 align="center">──────────────⊹⊱✫⊰⊹──────────────</h6>
-
-<h3 align="center">CONHECIMENTOS</h3>
+### Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="25" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 </div>
 
-<br>
+──────────────⊹⊱✫⊰⊹──────────────
+
+### Projeto em destaque
+
+**[Sistema Nexus](https://github.com/pgasaabyy/Nexus)** — Sistema de gestão escolar
+4 níveis de acesso · 20+ endpoints REST · Relatórios automatizados em PDF e Excel
+Desenvolvido como TCC, com Django Rest Framework e PostgreSQL.
+
+──────────────⊹⊱✫⊰⊹──────────────
+
+### Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pgasaabyy&layout=compact&langs_count=12&theme=omni&hide_border=true" height="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=pgasaabyy&show_icons=true&theme=omni&hide_border=true" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=pgasaabyy&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgasaabyy&layout=compact&theme=radical&hide_border=true" width="48%"/>
+
 </div>
 
-<h6 align="center">──────────────⊹⊱✫⊰⊹──────────────</h6>
+──────────────⊹⊱✫⊰⊹──────────────
+
+<div align="center">
+
+📍 São Paulo, SP · Cursando Engenharia de Software (FIAP)
+Aberta a oportunidades de estágio em desenvolvimento
+
+</div>
