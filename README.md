@@ -71,4 +71,7 @@ Estudante de Engenharia de Software na FIAP, com formação técnica em Desenvol
 </table>
 
 <br/>
+
+──────────────⊹⊱✫⊰⊹──────────────
+
 <br/>
