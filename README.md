@@ -13,7 +13,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C0392B&background=00000000&center=true&vCenter=true&width=600&lines=python+manage.py+runserver;Desenvolvedora+Full-Stack;Python+%C2%B7+HTML+%C2%B7+JavaScript+%C2%B7+CSS;Buscando+estagio+em+desenvolvimento)](#)
 
-[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-C0392B?style=for-the-badge&logoColor=white)](https://sabrinadeveloper.vercel.app/)
+<p align="center">
+  <a href="https://sabrinadeveloper.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-C0392B?style=for-the-badge&logoColor=white">
+  </a>
+</p>
 
 ──────────────⊹⊱✫⊰⊹──────────────
 
