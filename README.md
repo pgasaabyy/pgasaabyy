@@ -58,11 +58,11 @@ Estudante de Engenharia de Software na FIAP, com formação técnica em Desenvol
 <table align="center">
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=pgasaabyy&show_icons=true&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=ffffff&bg_color=1A1A2E&include_all_commits=true" width="315"/>
+<img src="https://github-readme-stats-eight-delta.vercel.app/api?username=pgasaabyy&show_icons=true&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=ffffff&bg_color=1A1A2E&include_all_commits=true" width="315"/>
 </td>
 <td width="10"></td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgasaabyy&layout=compact&hide_border=true&title_color=C0392B&text_color=ffffff&bg_color=1A1A2E&langs_count=6&card_width=330" width="315"/>
+<img src="https://github-readme-stats-eight-delta.vercel.app/api/top-langs/?username=pgasaabyy&layout=compact&hide_border=true&title_color=C0392B&text_color=ffffff&bg_color=1A1A2E&langs_count=6&card_width=330" width="315"/>
 </td>
 </tr>
 </table>
@@ -74,6 +74,5 @@ Estudante de Engenharia de Software na FIAP, com formação técnica em Desenvol
 </tr>
 </table>
 
-<br/>
 <br/>
 </table>
