@@ -59,7 +59,7 @@ Estudante de Engenharia de Software na FIAP, com formação técnica em Desenvol
 <table>
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats-ten-nu-29.vercel.app/api?username=pgasaabyy&show_icons=true&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=ffffff&bg_color=1A1A2E&include_all_commits=true" width="315"/>
+<img src="https://github-readme-stats-ten-nu-29.vercel.app/api?username=pgasaabyy&show_icons=true&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=ffffff&bg_color=1A1A2E&include_all_commits=true&card_width=400" width="315"/>
 </td>
 <td width="10"></td>
 <td valign="top">
