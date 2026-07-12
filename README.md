@@ -25,7 +25,9 @@
 
 </div>
 
+<div align="center">
 Estudante de Engenharia de Software na FIAP, com formação técnica em Desenvolvimento de Sistemas pelo SENAI. Construí um sistema de gestão escolar completo (Sistema Nexus) como TCC, com Django Rest Framework e PostgreSQL. Atuo também como freelancer, desenvolvendo sites para negócios autônomos. Apaixonada por tecnologia, back-end e resolver problemas reais com código.
+</div>
 
 <div align="center">
 
