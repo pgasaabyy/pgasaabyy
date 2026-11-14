@@ -37,8 +37,6 @@ Estudante de Engenharia de Software na FIAP, com formação técnica em Desenvol
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=flat&logo=linkedin&logoColor=C0392B)](https://www.linkedin.com/in/sabrina-lopes-silva/)
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=flat&logo=github&logoColor=C0392B)](https://github.com/pgasaabyy)
-[![Email](https://img.shields.io/badge/Email-1A1A2E?style=flat&logo=gmail&logoColor=C0392B)](mailto:lslva.sabrina@gmail.com)
-
 ──────────────⊹⊱✫⊰⊹──────────────
 
 ### tecnologias
